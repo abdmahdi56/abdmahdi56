@@ -6,4 +6,6 @@
 </p>
 
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  ⭐ **Thanks for visiting my profile!**
+</p>
