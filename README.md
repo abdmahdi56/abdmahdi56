@@ -2,5 +2,8 @@
 <h3 align="center">An aspiring coder</h3>
 
 <p align="center">
-  <a href="https://abdullahalmahdi.netlify.app/" target="_blank">My Portfolio</a>
+  <a href="https://abdullahalmahdi.netlify.app/" target="_blank"> 🌐 My Portfolio</a>
 </p>
+
+
+⭐ **Thanks for visiting my profile!**
